@@ -1,8 +1,31 @@
 Exercício aula 1
-1- whatsapp: mobile, não desgasta fisicamente 
-  - instagram: mobile e entretenimento, intangível 
+perguntas para refletir 
+1- Ela surgiu como uma resposta, pois foram desenvolvidos métodos e práticas para tornar a criação de softwares mais segura, eficiente e de melhor qualidade.
+2-   Aplicação Web:
+Funciona em navegadores.
+Deve ser compatível com diferentes dispositivos e navegadores.
+Depende de conexão com a internet na maioria dos casos.
+  Aplicação Mobile:
+Desenvolvida para smartphones e tablets.
+Interface adaptada para telas sensíveis ao toque.
+Utiliza recursos do aparelho, como câmera e GPS.
+  Sistema Embarcado:
+Executado em equipamentos específicos (carros, eletrodomésticos, máquinas etc.).
+Deve usar poucos recursos de hardware.
+Prioriza confiabilidade, desempenho e funcionamento em tempo real.
+3- Ele não se desgasta, porém ele fica desatualizado, as linguagens evoluem tornando as outras obsoletas, os código antigos ficam dificil whatsapp: mobile, não desgasta fisicamente 
+- whatsapp : mobile, não se desgasta com o tempo
+- instagram: mobile e entretenimento, intangível 
   - tiktok: mobile e entretenimento, complexo
 Exercício aula 2
+perguntas para refletir 
+1- Diferença
+Programar: escrever o código.
+Engenharia de Software: planejar, desenvolver, testar e manter o software.
+Quando usar o processo mais formal: quando o projeto fgica maior e quando envolve mais pessoas
+2- Confiabilidade e segurança, pois não deve causar danos físicos ou econômicos em caso de falha, em algum caso de um cliente pedir um software, o engenheiro não deve falhar e gerar prejuizo.
+3- Não. O ciclo de vida é flexível e pode voltar para etapas anteriores. Durante a evolução, podem surgir novas necessidades ou problemas, fazendo com que os requisitos sejam revisados e atualizados antes de continuar o desenvolvimento.
+
 - Sistema da biblioteca
 1- planejamento: levantamento das necessidades dos usuários (alunos, professores e bibliotecários).
 Definição dos objetivos, como permitir empréstimos, devoluções e consultas de livros.
